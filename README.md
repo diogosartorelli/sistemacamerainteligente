@@ -4,6 +4,20 @@
 Projeto disciplina de Hardware Architecture Semestre 2025.2, ministrada pelo Prof. Me. Fernando P. Pinheiro na Atitus Educação.
 
 ---
+## Integrantes do Grupo
+Este projeto foi desenvolvido pelos seguintes integrantes:
+
+* Integrante 1: Diogo Sartorelli - 1138670
+  Função: Documentação, Apresentação
+
+* Integrante 2: Gabriel Nunes - 1137876 
+  Função: Implementação câmera
+
+* Integrante 3: Augusto W. Altmayer - 1138100
+  Função: Implementação API, banco de dados
+
+* Integrante 4: Gabriel H. Bolson - 1134814
+  Função: Desenvolvimento API e banco de dados
 
 ## 1. Descrição Geral
 
