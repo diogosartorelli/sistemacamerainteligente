@@ -1,4 +1,4 @@
-# Projeto Final - Hardware Architecture (2025.2)
+# Projeto Smart Farm - Hardware Architecture (2025.2)
 ## Sistema de Segurança IoT com Raspberry Pi
 
 Projeto disciplina de Hardware Architecture Semestre 2025.2, ministrada pelo Prof. Me. Fernando P. Pinheiro na Atitus Educação.
